@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 * [Board Games](board-games/README.md)
   * [Gloomhaven](board-games/gloomhaven.md)
 * [Tech](tech/README.md)
+  * [Terminology](tech/terminology.md)
   * [Python](tech/python/README.md)
     * [virtualenv](tech/python/virtualenv.md)
     * [virtualenvwrapper](tech/python/virtualenvwrapper.md)
