@@ -7,6 +7,8 @@
   * [Writing](hobbies-and-interests/writing/README.md)
     * [Links](hobbies-and-interests/writing/links.md)
 * [Tech](tech/README.md)
+  * [Thought Provoking Snippets](tech/thought-provoking-snippets/README.md)
+    * [System Thinking](tech/thought-provoking-snippets/system-thinking.md)
   * [CSS](tech/css/README.md)
     * [Interesting/Useful Links](tech/css/interesting-useful-links.md)
   * [Terminology](tech/terminology.md)
