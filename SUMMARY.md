@@ -55,6 +55,8 @@
     * [Minikube](tech/kubernetes/minikube.md)
   * [JavaScript](tech/javascript/README.md)
     * [React](tech/javascript/react/README.md)
+      * [react-testing-library](tech/javascript/react/react-testing-library/README.md)
+        * [Useful Links](tech/javascript/react/react-testing-library/useful-links.md)
       * [Enzyme](tech/javascript/react/enzyme/README.md)
         * [Basic Test Structure](tech/javascript/react/enzyme/basic-test-structure.md)
       * [React-JSS](tech/javascript/react/react-jss.md)
